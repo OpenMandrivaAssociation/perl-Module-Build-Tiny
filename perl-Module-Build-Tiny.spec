@@ -13,6 +13,7 @@ BuildArch:	noarch
 BuildRequires:	perl(ExtUtils::Config)
 BuildRequires:	perl(ExtUtils::Helpers)
 BuildRequires:	perl(ExtUtils::InstallPaths)
+BuildRequires:	perl(CPAN::Meta)
 # for %%check
 BuildRequires:	perl-devel
 Suggests:	perl-ExtUtils-CBuilder
