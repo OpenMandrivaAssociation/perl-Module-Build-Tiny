@@ -14,9 +14,11 @@ BuildRequires:	perl(ExtUtils::Config)
 BuildRequires:	perl(ExtUtils::Helpers)
 BuildRequires:	perl(ExtUtils::InstallPaths)
 BuildRequires:	perl(CPAN::Meta)
+BuildRequires:	perl(ExtUtils::CBuilder)
 BuildRequires:	perl-devel
 # for %%check
 BuildRequires:	perl(Test::More)
+BuildRequires:	perl(Test::Pod)
 Suggests:	perl-ExtUtils-CBuilder
 
 %description
