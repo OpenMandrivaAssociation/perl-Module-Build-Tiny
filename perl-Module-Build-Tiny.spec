@@ -2,7 +2,7 @@
 
 Summary:	Build and install Perl modules
 Name:		perl-%{modname}
-Version:	0.051
+Version:	0.052
 Release:	1
 License:	GPL+ or Artistic
 Group:		Development/Perl
